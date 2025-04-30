@@ -2,7 +2,7 @@
 
 Hola, esto es una prueba continua.
 
-Ejemplo de integración para:
+Ejemplo de integración para tú sabes:
 
 * Esto es una prueba
 * Esto es un ejemplo
