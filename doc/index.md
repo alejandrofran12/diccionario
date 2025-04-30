@@ -1,6 +1,6 @@
 # Prueba
 
-Hola, esto es una prueva.
+Hola, esto es una prueba.
 
 Ejemplo de integración continua para
 
